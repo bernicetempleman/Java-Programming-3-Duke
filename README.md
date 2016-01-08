@@ -1,5 +1,5 @@
 # Java-Programming-3-Duke
-4. Java Programming: Principles of Software Design (Coursera - Duke)
+4-Java Programming: Principles of Software Design (Coursera - Duke)
 
 
 This is part of the Duke Series: Build Software Applications
